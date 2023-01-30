@@ -18,5 +18,8 @@ python manage.py runserver
 5. Open a new terminal and navigate to the react-frontend
 cd react-frontend
 
-6. Run npm install
-npm i
+6. Run yarn install
+yarn install
+
+7. Start the frontend server 
+npm start
