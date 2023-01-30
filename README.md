@@ -23,3 +23,13 @@ yarn install
 
 7. Start the frontend server 
 npm start
+
+To run the unit tests,
+1. Open a new terminal and a new virtual environement
+pipenv shell
+
+2. Navigate to the backend folder
+cd backend
+
+3. Run the pytest command
+pytest
